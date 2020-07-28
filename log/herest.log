@@ -1,0 +1,2663 @@
+phone list file is lm/monophones0
+ previous iteration = 0
+ Iteration no : 1 
+ Source directory : hmm/hmm0
+ Destination directory : hmm/hmm1
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm0/macros -H hmm/hmm0/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm1 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm1/stats.txt lm/monophones0 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is PLAIN
+51 Logical/51 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -7.009196e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -7.426667e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -7.314969e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -7.060723e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -7.211152e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -7.502810e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.860810e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -7.388195e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -7.212959e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.994279e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -7.233833e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.756363e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -7.463096e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -7.492695e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.920596e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -7.493555e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -7.231348e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -7.317636e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -7.487131e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -7.286749e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -7.323427e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -7.447015e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -7.382719e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -7.446292e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -7.382106e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -7.698603e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -6.199733e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -6.273909e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -6.286390e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -6.224011e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -6.178199e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -6.072946e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -6.164463e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -6.316592e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -6.294916e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -6.263990e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -6.091492e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -6.095202e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -6.335832e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -6.297819e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -6.127495e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -6.297258e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -6.212341e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -6.348364e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -6.221432e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -6.237457e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -6.352391e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -6.123797e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -6.221025e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -6.264461e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -6.364815e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -6.799212e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -6.730767e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -6.433671e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -6.531214e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -7.505499e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -7.138625e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -6.506611e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.836968e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -6.366329e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.967463e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -6.967235e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -6.788233e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -6.672910e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -7.460655e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -6.690338e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -7.244386e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -6.588503e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -6.474328e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -6.547477e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -7.087501e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -6.659319e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -6.890918e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -7.553209e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -6.886514e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -6.645717e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -6.679970e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -7.476842e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -7.633215e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -7.513918e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.639307e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -7.202579e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -7.495360e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -7.383806e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -7.656438e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -7.348413e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -7.401800e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -7.576256e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -7.360375e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -7.342222e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -7.586355e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -7.635487e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -7.488406e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -7.524334e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.752103e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -7.380910e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -7.129018e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -7.317107e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -7.556886e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -7.397385e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -7.399443e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -6.933320e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -7.463455e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -7.103006e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -7.169299e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -7.108476e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.818885e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -7.121069e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -7.015098e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -6.783233e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -7.004994e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.942170e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -7.142382e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -7.168533e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.953940e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.957288e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.828560e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -7.321819e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.964869e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.955485e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -7.123324e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -7.073876e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -7.107209e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -7.095155e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -7.024379e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.928916e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.969813e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -7.101125e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -6.184370e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -6.263811e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -6.293134e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -6.075486e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -6.396728e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -6.451982e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -6.234566e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -5.913666e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -5.955676e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -6.159470e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -6.120303e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -6.316069e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -6.211440e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -6.353991e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -6.409090e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -6.204968e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -6.086307e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -6.004801e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -6.201959e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -6.276274e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -6.091401e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -6.273260e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -6.122552e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -6.218246e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -6.094852e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -6.337367e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -7.276583e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -7.640779e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -7.263883e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -7.653856e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -7.243292e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -7.325471e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.514091e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -7.566074e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -7.402507e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -7.298624e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -7.240589e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -7.060908e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -7.424618e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -7.407080e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.944087e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -7.657703e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -7.280743e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -7.231909e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -7.412005e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -7.358312e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -7.102025e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -7.284109e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -7.290588e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -7.460470e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -7.439645e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -7.295220e+01
+Saving hmm's to dir hmm/hmm1
+Reestimation complete - average log prob per frame = -6.931098e+01
+     - total frames seen          = 1.014290e+05
+ previous iteration = 1
+ Iteration no : 2 
+ Source directory : hmm/hmm1
+ Destination directory : hmm/hmm2
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm1/macros -H hmm/hmm1/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm2 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm2/stats.txt lm/monophones0 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is PLAIN
+51 Logical/51 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.810873e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -7.194024e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -7.101964e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.803550e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -7.087221e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -7.263827e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.688265e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -7.234210e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.960469e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.698095e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.998520e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.556334e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -7.334188e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -7.336072e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.741556e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -7.279123e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -7.059530e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -7.251586e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -7.259796e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -7.095688e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -7.189444e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -7.210642e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -7.147806e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -7.283052e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -7.228634e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -7.513550e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.881305e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.996542e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.993064e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -6.025687e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.964856e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.941309e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.916753e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -6.063121e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.853440e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -6.034358e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.684767e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.586032e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -6.106214e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -6.017417e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.682070e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -6.062637e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.860844e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -6.109364e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.990467e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.944247e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -6.071961e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.605998e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.812245e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.921102e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -6.160513e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -6.462850e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -6.545550e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -6.233051e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -6.166444e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -7.195144e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.837050e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -6.177861e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.605157e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -6.046213e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.744621e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -7.188631e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -6.567786e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -6.550523e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -7.891909e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -6.310801e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.841633e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -6.304633e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -6.174382e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -6.197512e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -6.554531e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -6.309202e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -6.549466e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -7.164515e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -6.529893e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -6.222966e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -6.367534e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -7.242204e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -7.436642e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -7.187861e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.434735e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.781677e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -7.216281e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -7.242414e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -7.306419e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.998472e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -7.244284e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -7.362544e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -7.136861e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -7.206612e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -7.261204e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -7.503515e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -7.293102e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -7.283189e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.583472e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -7.116841e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.788173e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -7.121232e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -7.418518e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -7.133082e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -7.259860e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -6.369271e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -7.177368e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.782439e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.912288e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.963478e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.610552e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -7.014328e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.869748e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -6.155463e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.811743e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.804620e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -7.003644e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.927564e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.810995e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.699037e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.612318e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -7.141998e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.632848e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.820740e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.923486e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.894909e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.939335e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.835171e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.833587e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.748115e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.790674e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.961408e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.929851e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.960037e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.992615e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.771862e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -6.163007e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -6.135474e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -6.022119e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -5.422736e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -5.597093e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.796387e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.888893e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -6.023650e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.995270e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -6.016700e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -6.150829e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.784953e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.756807e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.803376e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.932430e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.950506e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.758404e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -6.026563e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.849122e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.871670e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -5.574563e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -6.077872e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -7.135567e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -7.412949e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -7.085101e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -7.268301e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.944377e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.903854e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.406519e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -7.198860e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -7.181922e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -7.108247e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -7.144149e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.673972e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -7.153966e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -7.137249e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.871696e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -7.351239e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -7.122971e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -7.018347e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -7.245717e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -7.173530e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.809138e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -7.253952e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -7.050242e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -7.237599e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -7.237688e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.881657e+01
+Saving hmm's to dir hmm/hmm2
+Reestimation complete - average log prob per frame = -6.698678e+01
+     - total frames seen          = 1.014290e+05
+ previous iteration = 2
+ Iteration no : 3 
+ Source directory : hmm/hmm2
+ Destination directory : hmm/hmm3
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm2/macros -H hmm/hmm2/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm3 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm3/stats.txt lm/monophones0 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is PLAIN
+51 Logical/51 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.611158e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -6.945796e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -6.850252e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.611427e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -6.861028e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -7.003032e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.311284e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -7.036001e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.703902e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.510071e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.812267e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.277244e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -7.110268e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -7.084040e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.401899e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -7.027270e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -6.886657e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -7.071117e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -6.981170e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -6.874768e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -6.987090e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -6.951291e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -6.915217e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -7.042346e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -6.999738e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -7.253665e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.679467e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.792144e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.770122e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -5.754881e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.774135e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.745536e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.702088e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -5.860927e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.568267e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -5.833823e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.434141e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.311887e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -5.831056e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -5.766049e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.450307e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -5.824750e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.603406e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -5.928495e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.752491e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.764385e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -5.860689e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.300458e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.596924e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.717818e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -6.020587e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -6.146058e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -6.237588e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -5.939481e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -5.817438e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -6.828679e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.489493e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -5.816275e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.289119e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -5.740895e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.450071e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -6.207177e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -6.231756e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -6.188882e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -7.313859e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -5.984325e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.416110e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -5.984385e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -5.712912e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -5.861778e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -6.169090e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -6.010659e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -6.255453e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -6.796969e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -6.195047e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -5.824435e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -6.031109e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -6.991645e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -7.149891e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -6.919726e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.194981e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.530340e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -6.934646e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -7.030969e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -7.013353e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.840100e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -7.006200e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -7.177677e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -6.899800e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -6.979731e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -6.961032e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -7.213860e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -7.068750e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -7.058526e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.425038e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -6.876209e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.522008e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -6.968183e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -7.188426e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -6.986698e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -7.032434e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -6.357698e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -6.951480e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.555921e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.722050e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.823661e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.381101e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -6.813797e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.681159e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -5.847753e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.574891e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.598624e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -6.853433e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.753990e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.606484e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.506797e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.423632e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -6.912676e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.399461e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.649240e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.692678e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.726654e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.714572e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.616427e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.655634e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.560596e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.516906e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.753066e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.636069e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.638886e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.747503e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.439828e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -5.875140e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -5.822869e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -5.721641e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -5.051791e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -5.183535e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.479492e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.653764e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -5.756919e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.711362e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -5.750255e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -5.813135e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.386029e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.440071e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.475310e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.687495e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.657101e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.475796e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -5.782720e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.501469e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.578005e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -5.174626e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -5.745337e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -6.926049e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -7.127097e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -6.859656e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -7.015504e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.696289e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.608346e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.152129e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -6.928718e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -6.871719e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -6.916361e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -6.963572e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.460747e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -6.940905e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -6.887889e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.630848e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -7.055073e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -6.861379e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -6.815025e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -7.047777e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -6.966587e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.543060e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -7.084678e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -6.885426e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -7.077280e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -7.037207e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.635779e+01
+Saving hmm's to dir hmm/hmm3
+Reestimation complete - average log prob per frame = -6.434010e+01
+     - total frames seen          = 1.014290e+05
+--------------------------- End of herest.sh  ------------------------ 
+
+******* Demonstration of HTK Tool HHEd for fixing silence model*********
+ This program demonstrates the use of the HTK tool HHEd to add extra 
+ transitions in the silence & short pause model and to tie emitting  
+ state of short pause model to center state of silence model.
+
+HHEd -A -H hmm/hmm4/macros -H hmm/hmm4/hmmdefs -M hmm/hmm5 -T 1 htk_files/sil.hed lm/monophones1 
+HHEd
+ 52/52 Models Loaded [5 states max, 1 mixes max]
+
+AT 2 4 0.200 {}
+ Adding transitions to transP
+ AT: 1 transP matrices adjusted
+
+AT 4 2 0.200 {}
+ Adding transitions to transP
+ AT: 1 transP matrices adjusted
+
+AT 1 3 0.300 {}
+ Adding transitions to transP
+ AT: 1 transP matrices adjusted
+
+TI silst {}
+ Tie items
+
+Saving new HMM files ...
+Edit Complete
+
+ New hmm definition file created in directory hmm/hmm5 
+------------------------- End of hhedSil.sh ---------------------------
+phone list file is lm/monophones1
+ previous iteration = 5
+ Iteration no : 6 
+ Source directory : hmm/hmm5
+ Destination directory : hmm/hmm6
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm5/macros -H hmm/hmm5/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm6 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm6/stats.txt lm/monophones1 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is SHARED
+52 Logical/52 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.440892e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -6.759851e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -6.648260e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.477395e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -6.715286e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -6.799604e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.174981e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -6.883365e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.502707e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.304084e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.701664e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.124260e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -6.944177e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -6.930930e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.226602e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -6.856590e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -6.708926e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -6.949531e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -6.795564e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -6.727577e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -6.850975e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -6.731581e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -6.777014e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -6.871456e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -6.869279e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -7.104575e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.433469e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.580441e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.613539e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -5.552772e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.592276e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.668525e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.513080e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -5.685627e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.387300e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -5.661617e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.156091e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.147248e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -5.667733e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -5.613436e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.287219e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -5.669043e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.394347e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -5.763696e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.563076e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.586857e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -5.681523e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.153080e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.381549e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.516383e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -5.865159e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -5.935983e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -5.993341e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -5.755893e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -5.661957e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -6.580918e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.210188e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -5.584088e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.145926e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -5.586689e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.282702e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -5.919628e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -6.024612e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -6.001641e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -7.182826e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -5.718279e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.200125e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -5.796285e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -5.478513e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -5.640183e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -5.808794e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -5.758067e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -6.024812e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -6.519549e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -6.014202e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -5.591757e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -5.848682e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -6.829287e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -6.988045e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -6.715751e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.064692e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.343891e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -6.773902e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -6.873740e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -6.852426e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.607900e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -6.852758e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -6.959771e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -6.778738e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -6.808689e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -6.758550e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -6.979344e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -6.933651e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -6.894965e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.289904e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -6.708258e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.340757e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -6.871765e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -7.051001e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -6.783588e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -6.871523e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -5.914857e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -6.786030e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.403308e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.541465e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.717025e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.237620e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -6.662610e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.510283e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -5.687054e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.390821e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.419642e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -6.712863e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.578198e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.464410e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.325320e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.357236e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -6.746437e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.209758e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.484451e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.528242e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.609511e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.601903e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.416247e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.492781e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.490611e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.335449e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.616083e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.481251e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.468213e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.573312e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.264440e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -5.712340e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -5.640466e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -5.523909e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -4.884862e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -5.021450e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.301253e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.473618e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -5.611426e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.541976e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -5.588002e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -5.654285e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.219916e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.284548e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.334786e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.522364e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.497539e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.334386e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -5.593517e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.375359e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.452845e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -5.005420e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -5.525668e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -6.848128e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -6.992095e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -6.724913e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -6.887892e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.585249e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.432345e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.032417e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -6.853137e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -6.786011e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -6.827470e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -6.845729e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.338998e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -6.703181e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -6.692741e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.485486e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -6.934356e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -6.710090e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -6.637317e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -6.896859e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -6.811173e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.398589e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -6.987167e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -6.745519e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -6.959271e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -6.888594e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.567092e+01
+ WARNING [-2331]  UpdateModels: sp[42] copied: only 0 egs
+ in HERest
+Saving hmm's to dir hmm/hmm6
+Reestimation complete - average log prob per frame = -6.264941e+01
+     - total frames seen          = 1.014290e+05
+ previous iteration = 6
+ Iteration no : 7 
+ Source directory : hmm/hmm6
+ Destination directory : hmm/hmm7
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm6/macros -H hmm/hmm6/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm7 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm7/stats.txt lm/monophones1 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is SHARED
+52 Logical/52 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.368029e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -6.657677e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -6.555826e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.380298e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -6.612995e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -6.701349e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.120802e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -6.796481e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.388093e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.158149e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.604947e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.053071e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -6.837148e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -6.824457e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.167002e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -6.747322e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -6.607431e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -6.878599e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -6.673745e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -6.658380e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -6.778962e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -6.596754e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -6.688320e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -6.798088e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -6.778521e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -6.976975e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.365663e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.511250e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.543855e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -5.448936e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.512178e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.636735e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.442239e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -5.638516e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.315953e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -5.596713e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.072163e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.082912e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -5.575648e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -5.540048e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.229097e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -5.597515e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.307758e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -5.669876e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.492561e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.525177e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -5.633532e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.111976e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.316074e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.450655e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -5.796237e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -5.854735e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -5.931320e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -5.663433e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -5.567856e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -6.518388e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.117403e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -5.483375e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.064686e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -5.503377e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.210538e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -5.831840e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -5.936708e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -5.944548e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -7.094945e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -5.647745e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.148623e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -5.680466e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -5.404240e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -5.588388e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -5.731498e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -5.682762e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -5.946292e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -6.455454e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -5.922406e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -5.500418e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -5.770225e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -6.802861e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -6.974186e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -6.693396e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.061284e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.283817e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -6.720618e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -6.811402e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -6.780073e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.511119e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -6.820978e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -6.867910e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -6.736258e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -6.731971e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -6.690556e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -6.927846e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -6.857549e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -6.879635e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.222071e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -6.641197e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.300414e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -6.841003e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -6.984120e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -6.695488e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -6.856768e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -5.855532e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -6.735090e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.339760e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.507916e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.715808e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.200319e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -6.625816e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.454529e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -5.624051e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.329722e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.360205e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -6.653141e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.526690e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.420305e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.227955e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.341128e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -6.701832e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.145550e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.425661e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.489144e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.567575e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.553946e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.345429e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.410399e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.475474e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.258766e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.592619e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.361628e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.405953e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.493745e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.175746e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -5.643029e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -5.556303e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -5.444883e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -4.805146e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -4.934143e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.218497e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.407590e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -5.526246e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.468965e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -5.511561e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -5.586832e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.139791e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.226878e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.266714e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.453499e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.417302e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.243857e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -5.505651e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.298719e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.388786e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -4.939760e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -5.423002e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -6.836098e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -6.958896e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -6.704441e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -6.861827e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.546875e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.372656e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.017127e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -6.837306e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -6.769475e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -6.783906e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -6.796623e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.279733e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -6.648160e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -6.613186e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.431387e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -6.904664e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -6.657188e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -6.598140e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -6.830465e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -6.766184e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.347155e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -6.967606e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -6.716533e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -6.965776e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -6.844174e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.539433e+01
+ WARNING [-2331]  UpdateModels: sp[42] copied: only 0 egs
+ in HERest
+Saving hmm's to dir hmm/hmm7
+Reestimation complete - average log prob per frame = -6.199718e+01
+     - total frames seen          = 1.014290e+05
+--------------------------- End of herest.sh  ------------------------ 
+phone list file is lm/monophones1
+ previous iteration = 7
+ Iteration no : 8 
+ Source directory : hmm/hmm7
+ Destination directory : hmm/hmm8
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm7/macros -H hmm/hmm7/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm8 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm8/stats.txt lm/monophones1 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is SHARED
+52 Logical/52 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.345624e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -6.656184e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -6.552505e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.348602e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -6.574727e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -6.688186e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.104474e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -6.768819e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.377676e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.126156e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.553528e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.032074e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -6.790629e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -6.781858e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.172600e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -6.722953e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -6.578626e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -6.846726e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -6.656918e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -6.643166e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -6.753916e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -6.584867e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -6.669675e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -6.770087e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -6.761177e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -6.950479e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.339772e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.476485e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.514864e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -5.399691e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.465386e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.557698e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.410430e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -5.605855e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.287739e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -5.572725e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.024228e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.070686e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -5.524898e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -5.511338e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.204312e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -5.562524e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.266378e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -5.615412e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.450475e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.495588e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -5.620898e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.076297e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.294154e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.412934e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -5.763054e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -5.820136e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -5.914039e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -5.622084e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -5.526295e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -6.497296e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.098832e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -5.448881e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.031417e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -5.480648e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.181813e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -5.807753e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -5.909386e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -5.925210e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -6.875709e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -5.617651e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.131535e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -5.632214e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -5.376941e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -5.574880e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -5.705588e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -5.644675e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -5.913083e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -6.432599e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -5.884698e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -5.465625e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -5.734446e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -6.804008e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -6.967174e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -6.689938e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.050785e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.242434e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -6.697944e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -6.753019e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -6.758333e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.484592e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -6.814153e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -6.847637e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -6.659097e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -6.680600e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -6.659911e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -6.914357e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -6.805082e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -6.909707e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.174360e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -6.590749e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.294661e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -6.813849e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -6.964201e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -6.672214e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -6.861557e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -5.847914e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -6.728135e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.328294e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.486783e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.726154e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.204222e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -6.616199e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.443303e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -5.614748e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.318737e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.354201e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -6.648531e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.496981e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.400722e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.196403e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.323016e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -6.705503e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.127901e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.416592e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.488231e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.558963e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.547116e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.323197e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.396545e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.478267e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.225955e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.593393e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.300214e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.379474e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.454590e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.137319e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -5.607361e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -5.527506e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -5.401847e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -4.778988e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -4.892346e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.182900e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.387459e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -5.475500e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.434179e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -5.470736e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -5.544194e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.107359e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.195709e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.217215e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.424283e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.382788e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.190557e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -5.472302e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.266270e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.347231e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -4.919331e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -5.382665e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -6.832744e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -6.964816e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -6.700786e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -6.846056e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.546507e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.355155e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.018441e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -6.834543e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -6.780614e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -6.772639e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -6.766286e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.266743e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -6.650068e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -6.601876e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.425359e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -6.899684e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -6.634062e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -6.594336e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -6.813990e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -6.744867e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.329270e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -6.964889e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -6.709717e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -6.988691e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -6.846761e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.526538e+01
+ WARNING [-2331]  UpdateModels: sp[42] copied: only 0 egs
+ in HERest
+Saving hmm's to dir hmm/hmm8
+Reestimation complete - average log prob per frame = -6.172148e+01
+     - total frames seen          = 1.014290e+05
+ previous iteration = 8
+ Iteration no : 9 
+ Source directory : hmm/hmm8
+ Destination directory : hmm/hmm9
+HERest -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm8/macros -H hmm/hmm8/hmmdefs -I lm/kannada_word_recoPhone0.mlf -M hmm/hmm9 -S htk_files/hcompv_script.txt -T 1 -t 250.0 150.0 1000.0 -s hmm/hmm9/stats.txt lm/monophones1 
+HERest  ML Updating: Transitions Means Variances 
+
+ System is SHARED
+52 Logical/52 Physical Models Loaded, VecSize=39
+2 MMF input files
+Pruning-On[250.0 150.0 1000.0]
+ Processing Data: kan2505F0024.mfc; Label kan2505F0024.lab
+ Utterance prob per frame = -6.315959e+01
+ Processing Data: kan2505F0004.mfc; Label kan2505F0004.lab
+ Utterance prob per frame = -6.651316e+01
+ Processing Data: kan2505F0003.mfc; Label kan2505F0003.lab
+ Utterance prob per frame = -6.548219e+01
+ Processing Data: kan2505F0027.mfc; Label kan2505F0027.lab
+ Utterance prob per frame = -6.353112e+01
+ Processing Data: kan2505F0029.mfc; Label kan2505F0029.lab
+ Utterance prob per frame = -6.541877e+01
+ Processing Data: kan2505F0018.mfc; Label kan2505F0018.lab
+ Utterance prob per frame = -6.687468e+01
+ Processing Data: kan2505F0016.mfc; Label kan2505F0016.lab
+ Utterance prob per frame = -7.096479e+01
+ Processing Data: kan2505F0010.mfc; Label kan2505F0010.lab
+ Utterance prob per frame = -6.773347e+01
+ Processing Data: kan2505F0002.mfc; Label kan2505F0002.lab
+ Utterance prob per frame = -6.374599e+01
+ Processing Data: kan2505F0017.mfc; Label kan2505F0017.lab
+ Utterance prob per frame = -6.109040e+01
+ Processing Data: kan2505F0025.mfc; Label kan2505F0025.lab
+ Utterance prob per frame = -6.518316e+01
+ Processing Data: kan2505F0009.mfc; Label kan2505F0009.lab
+ Utterance prob per frame = -7.027592e+01
+ Processing Data: kan2505F0014.mfc; Label kan2505F0014.lab
+ Utterance prob per frame = -6.772141e+01
+ Processing Data: kan2505F0012.mfc; Label kan2505F0012.lab
+ Utterance prob per frame = -6.765664e+01
+ Processing Data: kan2505F0015.mfc; Label kan2505F0015.lab
+ Utterance prob per frame = -7.173685e+01
+ Processing Data: kan2505F0011.mfc; Label kan2505F0011.lab
+ Utterance prob per frame = -6.715720e+01
+ Processing Data: kan2505F0007.mfc; Label kan2505F0007.lab
+ Utterance prob per frame = -6.569507e+01
+ Processing Data: kan2505F0001.mfc; Label kan2505F0001.lab
+ Utterance prob per frame = -6.842329e+01
+ Processing Data: kan2505F0023.mfc; Label kan2505F0023.lab
+ Utterance prob per frame = -6.657409e+01
+ Processing Data: kan2505F0028.mfc; Label kan2505F0028.lab
+ Utterance prob per frame = -6.644216e+01
+ Processing Data: kan2505F0026.mfc; Label kan2505F0026.lab
+ Utterance prob per frame = -6.739651e+01
+ Processing Data: kan2505F0006.mfc; Label kan2505F0006.lab
+ Utterance prob per frame = -6.584662e+01
+ Processing Data: kan2505F0030.mfc; Label kan2505F0030.lab
+ Utterance prob per frame = -6.665847e+01
+ Processing Data: kan2505F0008.mfc; Label kan2505F0008.lab
+ Utterance prob per frame = -6.741994e+01
+ Processing Data: kan2505F0013.mfc; Label kan2505F0013.lab
+ Utterance prob per frame = -6.753255e+01
+ Processing Data: kan2505F0005.mfc; Label kan2505F0005.lab
+ Utterance prob per frame = -6.937448e+01
+ Processing Data: kan2501F0007.mfc; Label kan2501F0007.lab
+ Utterance prob per frame = -5.318047e+01
+ Processing Data: kan2501F0010.mfc; Label kan2501F0010.lab
+ Utterance prob per frame = -5.463167e+01
+ Processing Data: kan2501F0020.mfc; Label kan2501F0020.lab
+ Utterance prob per frame = -5.491877e+01
+ Processing Data: kan2501F0012.mfc; Label kan2501F0012.lab
+ Utterance prob per frame = -5.373566e+01
+ Processing Data: kan2501F0029.mfc; Label kan2501F0029.lab
+ Utterance prob per frame = -5.434668e+01
+ Processing Data: kan2501F0026.mfc; Label kan2501F0026.lab
+ Utterance prob per frame = -5.515806e+01
+ Processing Data: kan2501F0023.mfc; Label kan2501F0023.lab
+ Utterance prob per frame = -5.392890e+01
+ Processing Data: kan2501F0008.mfc; Label kan2501F0008.lab
+ Utterance prob per frame = -5.580548e+01
+ Processing Data: kan2501F0019.mfc; Label kan2501F0019.lab
+ Utterance prob per frame = -5.274314e+01
+ Processing Data: kan2501F0009.mfc; Label kan2501F0009.lab
+ Utterance prob per frame = -5.557101e+01
+ Processing Data: kan2501F0024.mfc; Label kan2501F0024.lab
+ Utterance prob per frame = -5.000042e+01
+ Processing Data: kan2501F0018.mfc; Label kan2501F0018.lab
+ Utterance prob per frame = -5.054597e+01
+ Processing Data: kan2501F0027.mfc; Label kan2501F0027.lab
+ Utterance prob per frame = -5.508846e+01
+ Processing Data: kan2501F0028.mfc; Label kan2501F0028.lab
+ Utterance prob per frame = -5.498982e+01
+ Processing Data: kan2501F0017.mfc; Label kan2501F0017.lab
+ Utterance prob per frame = -5.177384e+01
+ Processing Data: kan2501F0013.mfc; Label kan2501F0013.lab
+ Utterance prob per frame = -5.536650e+01
+ Processing Data: kan2501F0021.mfc; Label kan2501F0021.lab
+ Utterance prob per frame = -5.248266e+01
+ Processing Data: kan2501F0006.mfc; Label kan2501F0006.lab
+ Utterance prob per frame = -5.596563e+01
+ Processing Data: kan2501F0022.mfc; Label kan2501F0022.lab
+ Utterance prob per frame = -5.423888e+01
+ Processing Data: kan2501F0030.mfc; Label kan2501F0030.lab
+ Utterance prob per frame = -5.474520e+01
+ Processing Data: kan2501F0014.mfc; Label kan2501F0014.lab
+ Utterance prob per frame = -5.605468e+01
+ Processing Data: kan2501F0025.mfc; Label kan2501F0025.lab
+ Utterance prob per frame = -5.048714e+01
+ Processing Data: kan2501F0015.mfc; Label kan2501F0015.lab
+ Utterance prob per frame = -5.281513e+01
+ Processing Data: kan2501F0016.mfc; Label kan2501F0016.lab
+ Utterance prob per frame = -5.388115e+01
+ Processing Data: kan2501F0011.mfc; Label kan2501F0011.lab
+ Utterance prob per frame = -5.737093e+01
+ Processing Data: kan2507M0004.mfc; Label kan2507M0004.lab
+ Utterance prob per frame = -5.799745e+01
+ Processing Data: kan2507M0010.mfc; Label kan2507M0010.lab
+ Utterance prob per frame = -5.918929e+01
+ Processing Data: kan2507M0007.mfc; Label kan2507M0007.lab
+ Utterance prob per frame = -5.599915e+01
+ Processing Data: kan2507M0006.mfc; Label kan2507M0006.lab
+ Utterance prob per frame = -5.509224e+01
+ Processing Data: kan2507M0022.mfc; Label kan2507M0022.lab
+ Utterance prob per frame = -6.488254e+01
+ Processing Data: kan2507M0023.mfc; Label kan2507M0023.lab
+ Utterance prob per frame = -6.097194e+01
+ Processing Data: kan2507M0019.mfc; Label kan2507M0019.lab
+ Utterance prob per frame = -5.437795e+01
+ Processing Data: kan2507M0013.mfc; Label kan2507M0013.lab
+ Utterance prob per frame = -6.020954e+01
+ Processing Data: kan2507M0025.mfc; Label kan2507M0025.lab
+ Utterance prob per frame = -5.441345e+01
+ Processing Data: kan2507M0009.mfc; Label kan2507M0009.lab
+ Utterance prob per frame = -6.166772e+01
+ Processing Data: kan2507M0001.mfc; Label kan2507M0001.lab
+ Utterance prob per frame = -5.796198e+01
+ Processing Data: kan2507M0012.mfc; Label kan2507M0012.lab
+ Utterance prob per frame = -5.887148e+01
+ Processing Data: kan2507M0003.mfc; Label kan2507M0003.lab
+ Utterance prob per frame = -5.950615e+01
+ Processing Data: kan2507M0026.mfc; Label kan2507M0026.lab
+ Utterance prob per frame = -6.846830e+01
+ Processing Data: kan2507M0005.mfc; Label kan2507M0005.lab
+ Utterance prob per frame = -5.588817e+01
+ Processing Data: kan2507M0015.mfc; Label kan2507M0015.lab
+ Utterance prob per frame = -6.121754e+01
+ Processing Data: kan2507M0020.mfc; Label kan2507M0020.lab
+ Utterance prob per frame = -5.605101e+01
+ Processing Data: kan2507M0002.mfc; Label kan2507M0002.lab
+ Utterance prob per frame = -5.362493e+01
+ Processing Data: kan2507M0021.mfc; Label kan2507M0021.lab
+ Utterance prob per frame = -5.572994e+01
+ Processing Data: kan2507M0017.mfc; Label kan2507M0017.lab
+ Utterance prob per frame = -5.668002e+01
+ Processing Data: kan2507M0008.mfc; Label kan2507M0008.lab
+ Utterance prob per frame = -5.618055e+01
+ Processing Data: kan2507M0011.mfc; Label kan2507M0011.lab
+ Utterance prob per frame = -5.891839e+01
+ Processing Data: kan2507M0016.mfc; Label kan2507M0016.lab
+ Utterance prob per frame = -6.407295e+01
+ Processing Data: kan2507M0018.mfc; Label kan2507M0018.lab
+ Utterance prob per frame = -5.861670e+01
+ Processing Data: kan2507M0024.mfc; Label kan2507M0024.lab
+ Utterance prob per frame = -5.441487e+01
+ Processing Data: kan2507M0014.mfc; Label kan2507M0014.lab
+ Utterance prob per frame = -5.709713e+01
+ Processing Data: kan2504F0021.mfc; Label kan2504F0021.lab
+ Utterance prob per frame = -6.800772e+01
+ Processing Data: kan2504F0019.mfc; Label kan2504F0019.lab
+ Utterance prob per frame = -6.951492e+01
+ Processing Data: kan2504F0030.mfc; Label kan2504F0030.lab
+ Utterance prob per frame = -6.683738e+01
+ Processing Data: kan2504F0009.mfc; Label kan2504F0009.lab
+ Utterance prob per frame = -7.047723e+01
+ Processing Data: kan2504F0002.mfc; Label kan2504F0002.lab
+ Utterance prob per frame = -6.215350e+01
+ Processing Data: kan2504F0011.mfc; Label kan2504F0011.lab
+ Utterance prob per frame = -6.681615e+01
+ Processing Data: kan2504F0001.mfc; Label kan2504F0001.lab
+ Utterance prob per frame = -6.737211e+01
+ Processing Data: kan2504F0004.mfc; Label kan2504F0004.lab
+ Utterance prob per frame = -6.743304e+01
+ Processing Data: kan2504F0003.mfc; Label kan2504F0003.lab
+ Utterance prob per frame = -6.468659e+01
+ Processing Data: kan2504F0026.mfc; Label kan2504F0026.lab
+ Utterance prob per frame = -6.806979e+01
+ Processing Data: kan2504F0007.mfc; Label kan2504F0007.lab
+ Utterance prob per frame = -6.840907e+01
+ Processing Data: kan2504F0010.mfc; Label kan2504F0010.lab
+ Utterance prob per frame = -6.642427e+01
+ Processing Data: kan2504F0012.mfc; Label kan2504F0012.lab
+ Utterance prob per frame = -6.662161e+01
+ Processing Data: kan2504F0006.mfc; Label kan2504F0006.lab
+ Utterance prob per frame = -6.639476e+01
+ Processing Data: kan2504F0023.mfc; Label kan2504F0023.lab
+ Utterance prob per frame = -6.914124e+01
+ Processing Data: kan2504F0029.mfc; Label kan2504F0029.lab
+ Utterance prob per frame = -6.777441e+01
+ Processing Data: kan2504F0008.mfc; Label kan2504F0008.lab
+ Utterance prob per frame = -6.901254e+01
+ Processing Data: kan2504F0025.mfc; Label kan2504F0025.lab
+ Utterance prob per frame = -7.154279e+01
+ Processing Data: kan2504F0014.mfc; Label kan2504F0014.lab
+ Utterance prob per frame = -6.571416e+01
+ Processing Data: kan2504F0024.mfc; Label kan2504F0024.lab
+ Utterance prob per frame = -6.285086e+01
+ Processing Data: kan2504F0020.mfc; Label kan2504F0020.lab
+ Utterance prob per frame = -6.851447e+01
+ Processing Data: kan2504F0022.mfc; Label kan2504F0022.lab
+ Utterance prob per frame = -6.962672e+01
+ Processing Data: kan2504F0028.mfc; Label kan2504F0028.lab
+ Utterance prob per frame = -6.670117e+01
+ Processing Data: kan2504F0013.mfc; Label kan2504F0013.lab
+ Utterance prob per frame = -6.850429e+01
+ Processing Data: kan2504F0027.mfc; Label kan2504F0027.lab
+ Utterance prob per frame = -5.843766e+01
+ Processing Data: kan2504F0005.mfc; Label kan2504F0005.lab
+ Utterance prob per frame = -6.706471e+01
+ Processing Data: kan2502M0011.mfc; Label kan2502M0011.lab
+ Utterance prob per frame = -6.315862e+01
+ Processing Data: kan2502M0024.mfc; Label kan2502M0024.lab
+ Utterance prob per frame = -6.444133e+01
+ Processing Data: kan2502M0020.mfc; Label kan2502M0020.lab
+ Utterance prob per frame = -6.693592e+01
+ Processing Data: kan2502M0021.mfc; Label kan2502M0021.lab
+ Utterance prob per frame = -6.207799e+01
+ Processing Data: kan2502M0013.mfc; Label kan2502M0013.lab
+ Utterance prob per frame = -6.597954e+01
+ Processing Data: kan2502M0028.mfc; Label kan2502M0028.lab
+ Utterance prob per frame = -6.433173e+01
+ Processing Data: kan2502M0002.mfc; Label kan2502M0002.lab
+ Utterance prob per frame = -5.607344e+01
+ Processing Data: kan2502M0001.mfc; Label kan2502M0001.lab
+ Utterance prob per frame = -6.310054e+01
+ Processing Data: kan2502M0012.mfc; Label kan2502M0012.lab
+ Utterance prob per frame = -6.332935e+01
+ Processing Data: kan2502M0019.mfc; Label kan2502M0019.lab
+ Utterance prob per frame = -6.642387e+01
+ Processing Data: kan2502M0003.mfc; Label kan2502M0003.lab
+ Utterance prob per frame = -6.484951e+01
+ Processing Data: kan2502M0022.mfc; Label kan2502M0022.lab
+ Utterance prob per frame = -6.400593e+01
+ Processing Data: kan2502M0017.mfc; Label kan2502M0017.lab
+ Utterance prob per frame = -6.176641e+01
+ Processing Data: kan2502M0027.mfc; Label kan2502M0027.lab
+ Utterance prob per frame = -6.312080e+01
+ Processing Data: kan2502M0018.mfc; Label kan2502M0018.lab
+ Utterance prob per frame = -6.698716e+01
+ Processing Data: kan2502M0004.mfc; Label kan2502M0004.lab
+ Utterance prob per frame = -6.117833e+01
+ Processing Data: kan2502M0023.mfc; Label kan2502M0023.lab
+ Utterance prob per frame = -6.404203e+01
+ Processing Data: kan2502M0015.mfc; Label kan2502M0015.lab
+ Utterance prob per frame = -6.486153e+01
+ Processing Data: kan2502M0030.mfc; Label kan2502M0030.lab
+ Utterance prob per frame = -6.550226e+01
+ Processing Data: kan2502M0029.mfc; Label kan2502M0029.lab
+ Utterance prob per frame = -6.519252e+01
+ Processing Data: kan2502M0016.mfc; Label kan2502M0016.lab
+ Utterance prob per frame = -6.306646e+01
+ Processing Data: kan2502M0005.mfc; Label kan2502M0005.lab
+ Utterance prob per frame = -6.401183e+01
+ Processing Data: kan2502M0025.mfc; Label kan2502M0025.lab
+ Utterance prob per frame = -6.468959e+01
+ Processing Data: kan2502M0014.mfc; Label kan2502M0014.lab
+ Utterance prob per frame = -6.210392e+01
+ Processing Data: kan2502M0026.mfc; Label kan2502M0026.lab
+ Utterance prob per frame = -6.573029e+01
+ Processing Data: kan2506M0020.mfc; Label kan2506M0020.lab
+ Utterance prob per frame = -5.269993e+01
+ Processing Data: kan2506M0012.mfc; Label kan2506M0012.lab
+ Utterance prob per frame = -5.365860e+01
+ Processing Data: kan2506M0004.mfc; Label kan2506M0004.lab
+ Utterance prob per frame = -5.433281e+01
+ Processing Data: kan2506M0005.mfc; Label kan2506M0005.lab
+ Utterance prob per frame = -5.118003e+01
+ Processing Data: kan2506M0015.mfc; Label kan2506M0015.lab
+ Utterance prob per frame = -5.587936e+01
+ Processing Data: kan2506M0010.mfc; Label kan2506M0010.lab
+ Utterance prob per frame = -5.505165e+01
+ Processing Data: kan2506M0022.mfc; Label kan2506M0022.lab
+ Utterance prob per frame = -5.373066e+01
+ Processing Data: kan2506M0002.mfc; Label kan2506M0002.lab
+ Utterance prob per frame = -4.764799e+01
+ Processing Data: kan2506M0027.mfc; Label kan2506M0027.lab
+ Utterance prob per frame = -4.876247e+01
+ Processing Data: kan2506M0019.mfc; Label kan2506M0019.lab
+ Utterance prob per frame = -5.171149e+01
+ Processing Data: kan2506M0029.mfc; Label kan2506M0029.lab
+ Utterance prob per frame = -5.374344e+01
+ Processing Data: kan2506M0016.mfc; Label kan2506M0016.lab
+ Utterance prob per frame = -5.455798e+01
+ Processing Data: kan2506M0009.mfc; Label kan2506M0009.lab
+ Utterance prob per frame = -5.417163e+01
+ Processing Data: kan2506M0008.mfc; Label kan2506M0008.lab
+ Utterance prob per frame = -5.446165e+01
+ Processing Data: kan2506M0013.mfc; Label kan2506M0013.lab
+ Utterance prob per frame = -5.526705e+01
+ Processing Data: kan2506M0021.mfc; Label kan2506M0021.lab
+ Utterance prob per frame = -5.091735e+01
+ Processing Data: kan2506M0014.mfc; Label kan2506M0014.lab
+ Utterance prob per frame = -5.169521e+01
+ Processing Data: kan2506M0001.mfc; Label kan2506M0001.lab
+ Utterance prob per frame = -5.192105e+01
+ Processing Data: kan2506M0003.mfc; Label kan2506M0003.lab
+ Utterance prob per frame = -5.401881e+01
+ Processing Data: kan2506M0011.mfc; Label kan2506M0011.lab
+ Utterance prob per frame = -5.365444e+01
+ Processing Data: kan2506M0006.mfc; Label kan2506M0006.lab
+ Utterance prob per frame = -5.168947e+01
+ Processing Data: kan2506M0030.mfc; Label kan2506M0030.lab
+ Utterance prob per frame = -5.456328e+01
+ Processing Data: kan2506M0028.mfc; Label kan2506M0028.lab
+ Utterance prob per frame = -5.249969e+01
+ Processing Data: kan2506M0018.mfc; Label kan2506M0018.lab
+ Utterance prob per frame = -5.328559e+01
+ Processing Data: kan2506M0017.mfc; Label kan2506M0017.lab
+ Utterance prob per frame = -4.905139e+01
+ Processing Data: kan2506M0007.mfc; Label kan2506M0007.lab
+ Utterance prob per frame = -5.359716e+01
+ Processing Data: kan2503F0026.mfc; Label kan2503F0026.lab
+ Utterance prob per frame = -6.835989e+01
+ Processing Data: kan2503F0030.mfc; Label kan2503F0030.lab
+ Utterance prob per frame = -6.966737e+01
+ Processing Data: kan2503F0018.mfc; Label kan2503F0018.lab
+ Utterance prob per frame = -6.697708e+01
+ Processing Data: kan2503F0004.mfc; Label kan2503F0004.lab
+ Utterance prob per frame = -6.817035e+01
+ Processing Data: kan2503F0015.mfc; Label kan2503F0015.lab
+ Utterance prob per frame = -6.549794e+01
+ Processing Data: kan2503F0006.mfc; Label kan2503F0006.lab
+ Utterance prob per frame = -6.343618e+01
+ Processing Data: kan2503F0022.mfc; Label kan2503F0022.lab
+ Utterance prob per frame = -7.013632e+01
+ Processing Data: kan2503F0008.mfc; Label kan2503F0008.lab
+ Utterance prob per frame = -6.825675e+01
+ Processing Data: kan2503F0002.mfc; Label kan2503F0002.lab
+ Utterance prob per frame = -6.766990e+01
+ Processing Data: kan2503F0025.mfc; Label kan2503F0025.lab
+ Utterance prob per frame = -6.753536e+01
+ Processing Data: kan2503F0029.mfc; Label kan2503F0029.lab
+ Utterance prob per frame = -6.744762e+01
+ Processing Data: kan2503F0017.mfc; Label kan2503F0017.lab
+ Utterance prob per frame = -6.264476e+01
+ Processing Data: kan2503F0003.mfc; Label kan2503F0003.lab
+ Utterance prob per frame = -6.646410e+01
+ Processing Data: kan2503F0023.mfc; Label kan2503F0023.lab
+ Utterance prob per frame = -6.591230e+01
+ Processing Data: kan2503F0027.mfc; Label kan2503F0027.lab
+ Utterance prob per frame = -6.424159e+01
+ Processing Data: kan2503F0009.mfc; Label kan2503F0009.lab
+ Utterance prob per frame = -6.893149e+01
+ Processing Data: kan2503F0021.mfc; Label kan2503F0021.lab
+ Utterance prob per frame = -6.619952e+01
+ Processing Data: kan2503F0019.mfc; Label kan2503F0019.lab
+ Utterance prob per frame = -6.588643e+01
+ Processing Data: kan2503F0016.mfc; Label kan2503F0016.lab
+ Utterance prob per frame = -6.795316e+01
+ Processing Data: kan2503F0001.mfc; Label kan2503F0001.lab
+ Utterance prob per frame = -6.738395e+01
+ Processing Data: kan2503F0024.mfc; Label kan2503F0024.lab
+ Utterance prob per frame = -6.328853e+01
+ Processing Data: kan2503F0007.mfc; Label kan2503F0007.lab
+ Utterance prob per frame = -6.962021e+01
+ Processing Data: kan2503F0020.mfc; Label kan2503F0020.lab
+ Utterance prob per frame = -6.683704e+01
+ Processing Data: kan2503F0005.mfc; Label kan2503F0005.lab
+ Utterance prob per frame = -6.990351e+01
+ Processing Data: kan2503F0028.mfc; Label kan2503F0028.lab
+ Utterance prob per frame = -6.848655e+01
+ Processing Data: kan2503F0010.mfc; Label kan2503F0010.lab
+ Utterance prob per frame = -6.531220e+01
+ WARNING [-2331]  UpdateModels: sp[42] copied: only 0 egs
+ in HERest
+Total 1 floored variance elements in 1 different mixes
+Saving hmm's to dir hmm/hmm9
+Reestimation complete - average log prob per frame = -6.157501e+01
+     - total frames seen          = 1.014290e+05
+--------------------------- End of herest.sh  ------------------------ 

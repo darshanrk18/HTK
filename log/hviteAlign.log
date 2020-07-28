@@ -1,0 +1,544 @@
+HVite -a -b sil -i lm/kannada_word_recoAligned.mlf -m -o SWT -y lab -A -C htk_files/configs_MFCC12_D_A_0_Z -H hmm/hmm7/hmmdefs -H hmm/hmm7/macros -I lm/kannada_word_recoWord.mlf -S htk_files/hcompv_script.txt -T 1 lm/sorted.lexicon.txt lm/monophones1 
+Read 52 physical / 52 logical HMMs
+Label file will be used to align each file
+Aligning File: data/train/2505/kan2505F0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [368 frames] -63.4960 [Ac=-23366.5 LM=0.0] (Act=31.1)
+Aligning File: data/train/2505/kan2505F0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [518 frames] -66.6060 [Ac=-34501.9 LM=0.0] (Act=48.3)
+Aligning File: data/train/2505/kan2505F0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [418 frames] -65.5829 [Ac=-27413.7 LM=0.0] (Act=40.3)
+Aligning File: data/train/2505/kan2505F0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [318 frames] -63.5241 [Ac=-20200.7 LM=0.0] (Act=25.2)
+Aligning File: data/train/2505/kan2505F0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [778 frames] -65.8088 [Ac=-51199.2 LM=0.0] (Act=69.5)
+Aligning File: data/train/2505/kan2505F0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [418 frames] -66.9359 [Ac=-27979.2 LM=0.0] (Act=44.6)
+Aligning File: data/train/2505/kan2505F0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [408 frames] -71.1103 [Ac=-29013.0 LM=0.0] (Act=45.1)
+Aligning File: data/train/2505/kan2505F0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [438 frames] -67.7426 [Ac=-29671.2 LM=0.0] (Act=41.6)
+Aligning File: data/train/2505/kan2505F0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [308 frames] -63.8101 [Ac=-19653.5 LM=0.0] (Act=24.4)
+Aligning File: data/train/2505/kan2505F0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [298 frames] -61.2975 [Ac=-18266.7 LM=0.0] (Act=25.9)
+Aligning File: data/train/2505/kan2505F0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [408 frames] -65.5812 [Ac=-26757.1 LM=0.0] (Act=33.8)
+Aligning File: data/train/2505/kan2505F0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [478 frames] -70.3683 [Ac=-33636.1 LM=0.0] (Act=53.2)
+Aligning File: data/train/2505/kan2505F0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [398 frames] -67.9595 [Ac=-27047.9 LM=0.0] (Act=41.8)
+Aligning File: data/train/2505/kan2505F0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [698 frames] -67.8654 [Ac=-47370.0 LM=0.0] (Act=64.6)
+Aligning File: data/train/2505/kan2505F0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [488 frames] -71.7799 [Ac=-35028.6 LM=0.0] (Act=51.2)
+Aligning File: data/train/2505/kan2505F0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [458 frames] -67.2747 [Ac=-30811.8 LM=0.0] (Act=47.3)
+Aligning File: data/train/2505/kan2505F0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [508 frames] -65.8379 [Ac=-33445.7 LM=0.0] (Act=49.9)
+Aligning File: data/train/2505/kan2505F0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [558 frames] -68.5195 [Ac=-38233.9 LM=0.0] (Act=55.5)
+Aligning File: data/train/2505/kan2505F0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [648 frames] -66.6152 [Ac=-43166.6 LM=0.0] (Act=60.3)
+Aligning File: data/train/2505/kan2505F0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [458 frames] -66.4778 [Ac=-30446.8 LM=0.0] (Act=40.5)
+Aligning File: data/train/2505/kan2505F0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1318 frames] -67.5868 [Ac=-89079.4 LM=0.0] (Act=105.0)
+Aligning File: data/train/2505/kan2505F0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [368 frames] -65.8981 [Ac=-24250.5 LM=0.0] (Act=34.0)
+Aligning File: data/train/2505/kan2505F0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [438 frames] -66.7531 [Ac=-29237.8 LM=0.0] (Act=41.6)
+Aligning File: data/train/2505/kan2505F0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [408 frames] -67.7507 [Ac=-27642.3 LM=0.0] (Act=36.7)
+Aligning File: data/train/2505/kan2505F0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [778 frames] -67.6616 [Ac=-52640.8 LM=0.0] (Act=69.6)
+Aligning File: data/train/2505/kan2505F0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [338 frames] -69.5461 [Ac=-23506.6 LM=0.0] (Act=32.9)
+Aligning File: data/train/2501/kan2501F0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [726 frames] -53.4618 [Ac=-38813.3 LM=0.0] (Act=52.3)
+Aligning File: data/train/2501/kan2501F0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [509 frames] -54.8159 [Ac=-27901.3 LM=0.0] (Act=42.5)
+Aligning File: data/train/2501/kan2501F0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [557 frames] -55.2032 [Ac=-30748.2 LM=0.0] (Act=49.0)
+Aligning File: data/train/2501/kan2501F0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [806 frames] -54.0521 [Ac=-43566.0 LM=0.0] (Act=66.0)
+Aligning File: data/train/2501/kan2501F0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [752 frames] -54.7194 [Ac=-41149.0 LM=0.0] (Act=69.2)
+Aligning File: data/train/2501/kan2501F0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1131 frames] -55.5379 [Ac=-62813.3 LM=0.0] (Act=102.6)
+Aligning File: data/train/2501/kan2501F0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [719 frames] -54.1559 [Ac=-38938.1 LM=0.0] (Act=61.1)
+Aligning File: data/train/2501/kan2501F0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [426 frames] -56.1153 [Ac=-23905.1 LM=0.0] (Act=37.0)
+Aligning File: data/train/2501/kan2501F0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [437 frames] -52.9337 [Ac=-23132.0 LM=0.0] (Act=34.2)
+Aligning File: data/train/2501/kan2501F0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [605 frames] -55.7980 [Ac=-33757.8 LM=0.0] (Act=55.4)
+Aligning File: data/train/2501/kan2501F0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [414 frames] -50.2901 [Ac=-20820.1 LM=0.0] (Act=31.6)
+Aligning File: data/train/2501/kan2501F0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [668 frames] -50.7243 [Ac=-33883.8 LM=0.0] (Act=47.7)
+Aligning File: data/train/2501/kan2501F0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [278 frames] -55.3052 [Ac=-15374.8 LM=0.0] (Act=24.7)
+Aligning File: data/train/2501/kan2501F0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [482 frames] -55.1766 [Ac=-26595.1 LM=0.0] (Act=40.8)
+Aligning File: data/train/2501/kan2501F0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [374 frames] -52.1031 [Ac=-19486.5 LM=0.0] (Act=26.5)
+Aligning File: data/train/2501/kan2501F0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [848 frames] -55.6930 [Ac=-47227.6 LM=0.0] (Act=70.4)
+Aligning File: data/train/2501/kan2501F0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [371 frames] -52.7168 [Ac=-19557.9 LM=0.0] (Act=31.3)
+Aligning File: data/train/2501/kan2501F0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [404 frames] -56.2191 [Ac=-22712.5 LM=0.0] (Act=34.5)
+Aligning File: data/train/2501/kan2501F0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [653 frames] -54.5694 [Ac=-35633.8 LM=0.0] (Act=57.6)
+Aligning File: data/train/2501/kan2501F0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [485 frames] -55.0108 [Ac=-26680.2 LM=0.0] (Act=42.3)
+Aligning File: data/train/2501/kan2501F0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [513 frames] -56.2671 [Ac=-28865.0 LM=0.0] (Act=43.4)
+Aligning File: data/train/2501/kan2501F0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [539 frames] -50.7974 [Ac=-27379.8 LM=0.0] (Act=34.8)
+Aligning File: data/train/2501/kan2501F0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [725 frames] -52.9954 [Ac=-38421.7 LM=0.0] (Act=54.4)
+Aligning File: data/train/2501/kan2501F0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [640 frames] -54.1889 [Ac=-34680.9 LM=0.0] (Act=48.4)
+Aligning File: data/train/2501/kan2501F0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [483 frames] -57.6934 [Ac=-27865.9 LM=0.0] (Act=47.8)
+Aligning File: data/train/2507/kan2507M0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [597 frames] -58.2576 [Ac=-34779.8 LM=0.0] (Act=49.4)
+Aligning File: data/train/2507/kan2507M0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [593 frames] -58.5152 [Ac=-34699.5 LM=0.0] (Act=43.3)
+Aligning File: data/train/2507/kan2507M0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [639 frames] -56.2776 [Ac=-35961.4 LM=0.0] (Act=51.5)
+Aligning File: data/train/2507/kan2507M0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [456 frames] -55.3095 [Ac=-25221.1 LM=0.0] (Act=35.0)
+Aligning File: data/train/2507/kan2507M0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [821 frames] -65.0068 [Ac=-53370.6 LM=0.0] (Act=59.3)
+Aligning File: data/train/2507/kan2507M0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [876 frames] -61.0347 [Ac=-53466.4 LM=0.0] (Act=62.6)
+Aligning File: data/train/2507/kan2507M0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [450 frames] -54.5319 [Ac=-24539.4 LM=0.0] (Act=34.3)
+Aligning File: data/train/2507/kan2507M0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [714 frames] -60.3747 [Ac=-43107.6 LM=0.0] (Act=68.7)
+Aligning File: data/train/2507/kan2507M0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [488 frames] -54.8520 [Ac=-26767.8 LM=0.0] (Act=34.5)
+Aligning File: data/train/2507/kan2507M0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [692 frames] -61.8700 [Ac=-42814.0 LM=0.0] (Act=56.5)
+Aligning File: data/train/2507/kan2507M0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [812 frames] -58.1155 [Ac=-47189.8 LM=0.0] (Act=58.5)
+Aligning File: data/train/2507/kan2507M0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [824 frames] -59.1408 [Ac=-48732.0 LM=0.0] (Act=66.2)
+Aligning File: data/train/2507/kan2507M0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [539 frames] -59.2795 [Ac=-31951.7 LM=0.0] (Act=41.8)
+Aligning File: data/train/2507/kan2507M0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1662 frames] -67.7573 [Ac=-112612.7 LM=0.0] (Act=107.9)
+Aligning File: data/train/2507/kan2507M0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [471 frames] -56.2248 [Ac=-26481.9 LM=0.0] (Act=34.3)
+Aligning File: data/train/2507/kan2507M0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [821 frames] -61.2853 [Ac=-50315.2 LM=0.0] (Act=55.2)
+Aligning File: data/train/2507/kan2507M0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [614 frames] -56.3587 [Ac=-34604.2 LM=0.0] (Act=49.7)
+Aligning File: data/train/2507/kan2507M0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [462 frames] -53.7991 [Ac=-24855.2 LM=0.0] (Act=25.3)
+Aligning File: data/train/2507/kan2507M0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [377 frames] -55.8107 [Ac=-21040.6 LM=0.0] (Act=31.3)
+Aligning File: data/train/2507/kan2507M0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [464 frames] -57.0867 [Ac=-26488.2 LM=0.0] (Act=27.0)
+Aligning File: data/train/2507/kan2507M0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [524 frames] -56.4873 [Ac=-29599.3 LM=0.0] (Act=37.9)
+Aligning File: data/train/2507/kan2507M0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [597 frames] -59.1922 [Ac=-35337.8 LM=0.0] (Act=49.4)
+Aligning File: data/train/2507/kan2507M0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [609 frames] -64.3698 [Ac=-39201.2 LM=0.0] (Act=48.1)
+Aligning File: data/train/2507/kan2507M0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [560 frames] -58.8995 [Ac=-32983.7 LM=0.0] (Act=46.7)
+Aligning File: data/train/2507/kan2507M0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [441 frames] -54.6957 [Ac=-24120.8 LM=0.0] (Act=31.8)
+Aligning File: data/train/2507/kan2507M0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [504 frames] -57.4056 [Ac=-28932.4 LM=0.0] (Act=43.3)
+Aligning File: data/train/2504/kan2504F0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [378 frames] -68.0807 [Ac=-25734.5 LM=0.0] (Act=31.4)
+Aligning File: data/train/2504/kan2504F0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [388 frames] -69.7117 [Ac=-27048.1 LM=0.0] (Act=33.7)
+Aligning File: data/train/2504/kan2504F0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [458 frames] -66.9616 [Ac=-30668.4 LM=0.0] (Act=41.9)
+Aligning File: data/train/2504/kan2504F0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [848 frames] -70.5500 [Ac=-59826.4 LM=0.0] (Act=57.9)
+Aligning File: data/train/2504/kan2504F0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [338 frames] -62.4634 [Ac=-21112.6 LM=0.0] (Act=24.6)
+Aligning File: data/train/2504/kan2504F0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [708 frames] -67.0268 [Ac=-47455.0 LM=0.0] (Act=50.4)
+Aligning File: data/train/2504/kan2504F0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [698 frames] -67.5822 [Ac=-47172.4 LM=0.0] (Act=57.4)
+Aligning File: data/train/2504/kan2504F0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [578 frames] -67.6333 [Ac=-39092.0 LM=0.0] (Act=49.1)
+Aligning File: data/train/2504/kan2504F0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [528 frames] -64.8906 [Ac=-34262.2 LM=0.0] (Act=41.7)
+Aligning File: data/train/2504/kan2504F0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1488 frames] -68.1798 [Ac=-101451.5 LM=0.0] (Act=106.6)
+Aligning File: data/train/2504/kan2504F0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [648 frames] -68.5270 [Ac=-44405.5 LM=0.0] (Act=51.6)
+Aligning File: data/train/2504/kan2504F0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [618 frames] -66.6364 [Ac=-41181.3 LM=0.0] (Act=43.5)
+Aligning File: data/train/2504/kan2504F0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [968 frames] -66.8525 [Ac=-64713.2 LM=0.0] (Act=67.5)
+Aligning File: data/train/2504/kan2504F0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [468 frames] -66.6486 [Ac=-31191.6 LM=0.0] (Act=35.1)
+Aligning File: data/train/2504/kan2504F0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [768 frames] -69.1939 [Ac=-53140.9 LM=0.0] (Act=61.6)
+Aligning File: data/train/2504/kan2504F0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [898 frames] -68.1033 [Ac=-61156.8 LM=0.0] (Act=70.9)
+Aligning File: data/train/2504/kan2504F0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [548 frames] -69.1274 [Ac=-37881.8 LM=0.0] (Act=38.1)
+Aligning File: data/train/2504/kan2504F0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [428 frames] -71.7895 [Ac=-30725.9 LM=0.0] (Act=34.0)
+Aligning File: data/train/2504/kan2504F0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [638 frames] -65.9555 [Ac=-42079.6 LM=0.0] (Act=44.5)
+Aligning File: data/train/2504/kan2504F0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [368 frames] -62.9948 [Ac=-23182.1 LM=0.0] (Act=31.1)
+Aligning File: data/train/2504/kan2504F0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [628 frames] -67.9718 [Ac=-42686.3 LM=0.0] (Act=49.8)
+Aligning File: data/train/2504/kan2504F0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [688 frames] -69.6944 [Ac=-47949.7 LM=0.0] (Act=58.0)
+Aligning File: data/train/2504/kan2504F0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [498 frames] -66.7681 [Ac=-33250.5 LM=0.0] (Act=40.9)
+Aligning File: data/train/2504/kan2504F0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [1008 frames] -68.6284 [Ac=-69177.4 LM=0.0] (Act=72.0)
+Aligning File: data/train/2504/kan2504F0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [358 frames] -58.5201 [Ac=-20950.2 LM=0.0] (Act=25.5)
+Aligning File: data/train/2504/kan2504F0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [398 frames] -67.3315 [Ac=-26798.0 LM=0.0] (Act=33.6)
+Aligning File: data/train/2502/kan2502M0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [538 frames] -63.3417 [Ac=-34077.9 LM=0.0] (Act=48.6)
+Aligning File: data/train/2502/kan2502M0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [348 frames] -64.9206 [Ac=-22592.4 LM=0.0] (Act=30.9)
+Aligning File: data/train/2502/kan2502M0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [538 frames] -67.3087 [Ac=-36212.1 LM=0.0] (Act=48.8)
+Aligning File: data/train/2502/kan2502M0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [318 frames] -62.0961 [Ac=-19746.6 LM=0.0] (Act=30.7)
+Aligning File: data/train/2502/kan2502M0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [758 frames] -66.2171 [Ac=-50192.6 LM=0.0] (Act=69.3)
+Aligning File: data/train/2502/kan2502M0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [408 frames] -64.4859 [Ac=-26310.2 LM=0.0] (Act=39.8)
+Aligning File: data/train/2502/kan2502M0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [328 frames] -56.1941 [Ac=-18431.7 LM=0.0] (Act=24.6)
+Aligning File: data/train/2502/kan2502M0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [688 frames] -63.2408 [Ac=-43509.7 LM=0.0] (Act=57.3)
+Aligning File: data/train/2502/kan2502M0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [798 frames] -63.5927 [Ac=-50747.0 LM=0.0] (Act=65.9)
+Aligning File: data/train/2502/kan2502M0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [378 frames] -66.5429 [Ac=-25153.2 LM=0.0] (Act=33.6)
+Aligning File: data/train/2502/kan2502M0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [478 frames] -65.0191 [Ac=-31079.1 LM=0.0] (Act=41.2)
+Aligning File: data/train/2502/kan2502M0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [668 frames] -64.0550 [Ac=-42788.7 LM=0.0] (Act=57.7)
+Aligning File: data/train/2502/kan2502M0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [318 frames] -62.0086 [Ac=-19718.7 LM=0.0] (Act=26.1)
+Aligning File: data/train/2502/kan2502M0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [298 frames] -63.2702 [Ac=-18854.5 LM=0.0] (Act=25.0)
+Aligning File: data/train/2502/kan2502M0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [468 frames] -67.1002 [Ac=-31402.9 LM=0.0] (Act=45.5)
+Aligning File: data/train/2502/kan2502M0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [598 frames] -61.3376 [Ac=-36679.9 LM=0.0] (Act=49.4)
+Aligning File: data/train/2502/kan2502M0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [678 frames] -64.2237 [Ac=-43543.6 LM=0.0] (Act=60.7)
+Aligning File: data/train/2502/kan2502M0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [588 frames] -64.9271 [Ac=-38177.1 LM=0.0] (Act=52.9)
+Aligning File: data/train/2502/kan2502M0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [468 frames] -65.6457 [Ac=-30722.2 LM=0.0] (Act=42.1)
+Aligning File: data/train/2502/kan2502M0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [728 frames] -65.5251 [Ac=-47702.3 LM=0.0] (Act=68.8)
+Aligning File: data/train/2502/kan2502M0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [528 frames] -63.2867 [Ac=-33415.4 LM=0.0] (Act=47.2)
+Aligning File: data/train/2502/kan2502M0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [388 frames] -64.0122 [Ac=-24836.8 LM=0.0] (Act=33.5)
+Aligning File: data/train/2502/kan2502M0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [448 frames] -64.8277 [Ac=-29042.8 LM=0.0] (Act=34.2)
+Aligning File: data/train/2502/kan2502M0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [488 frames] -62.3221 [Ac=-30413.2 LM=0.0] (Act=43.1)
+Aligning File: data/train/2502/kan2502M0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1408 frames] -65.9083 [Ac=-92798.8 LM=0.0] (Act=105.9)
+Aligning File: data/train/2506/kan2506M0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [588 frames] -53.0501 [Ac=-31193.5 LM=0.0] (Act=49.4)
+Aligning File: data/train/2506/kan2506M0012.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu sil  ==  [773 frames] -53.8494 [Ac=-41625.6 LM=0.0] (Act=65.6)
+Aligning File: data/train/2506/kan2506M0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [576 frames] -54.5928 [Ac=-31445.4 LM=0.0] (Act=49.1)
+Aligning File: data/train/2506/kan2506M0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [449 frames] -51.4254 [Ac=-23090.0 LM=0.0] (Act=34.1)
+Aligning File: data/train/2506/kan2506M0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [705 frames] -56.1356 [Ac=-39575.6 LM=0.0] (Act=54.2)
+Aligning File: data/train/2506/kan2506M0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [494 frames] -55.3196 [Ac=-27327.9 LM=0.0] (Act=42.4)
+Aligning File: data/train/2506/kan2506M0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [755 frames] -54.0675 [Ac=-40821.0 LM=0.0] (Act=58.7)
+Aligning File: data/train/2506/kan2506M0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [402 frames] -47.8272 [Ac=-19226.6 LM=0.0] (Act=25.0)
+Aligning File: data/train/2506/kan2506M0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [381 frames] -48.9647 [Ac=-18655.6 LM=0.0] (Act=25.6)
+Aligning File: data/train/2506/kan2506M0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [456 frames] -51.8711 [Ac=-23653.2 LM=0.0] (Act=34.4)
+Aligning File: data/train/2506/kan2506M0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [947 frames] -53.9137 [Ac=-51056.3 LM=0.0] (Act=71.4)
+Aligning File: data/train/2506/kan2506M0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [563 frames] -54.8078 [Ac=-30856.8 LM=0.0] (Act=47.6)
+Aligning File: data/train/2506/kan2506M0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [657 frames] -54.3898 [Ac=-35734.1 LM=0.0] (Act=56.1)
+Aligning File: data/train/2506/kan2506M0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [386 frames] -54.7743 [Ac=-21142.9 LM=0.0] (Act=36.4)
+Aligning File: data/train/2506/kan2506M0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sil raatriyellaa kaawalu kaayuttidda awaru belxagina jaawadalli maimaretu nidde maadxuttiddaru sil  ==  [834 frames] -55.5039 [Ac=-46290.3 LM=0.0] (Act=70.3)
+Aligning File: data/train/2506/kan2506M0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [425 frames] -51.1149 [Ac=-21723.8 LM=0.0] (Act=31.8)
+Aligning File: data/train/2506/kan2506M0014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil aatana maneya pakkadalli obba shriimaqta raitanidda sil  ==  [506 frames] -52.0170 [Ac=-26320.6 LM=0.0] (Act=43.3)
+Aligning File: data/train/2506/kan2506M0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [671 frames] -52.2222 [Ac=-35041.1 LM=0.0] (Act=57.1)
+Aligning File: data/train/2506/kan2506M0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [561 frames] -54.2997 [Ac=-30462.1 LM=0.0] (Act=42.0)
+Aligning File: data/train/2506/kan2506M0011.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [504 frames] -53.8797 [Ac=-27155.4 LM=0.0] (Act=48.1)
+Aligning File: data/train/2506/kan2506M0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [453 frames] -51.9557 [Ac=-23535.9 LM=0.0] (Act=35.0)
+Aligning File: data/train/2506/kan2506M0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [614 frames] -54.7646 [Ac=-33625.4 LM=0.0] (Act=43.5)
+Aligning File: data/train/2506/kan2506M0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [557 frames] -52.7055 [Ac=-29357.0 LM=0.0] (Act=41.5)
+Aligning File: data/train/2506/kan2506M0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [621 frames] -53.5225 [Ac=-33237.5 LM=0.0] (Act=47.3)
+Aligning File: data/train/2506/kan2506M0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [426 frames] -49.2381 [Ac=-20975.4 LM=0.0] (Act=26.8)
+Aligning File: data/train/2506/kan2506M0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [669 frames] -53.8743 [Ac=-36041.9 LM=0.0] (Act=51.8)
+Aligning File: data/train/2503/kan2503F0026.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sil prapaqcadalli maatanaadxuwa pramukha bhaasxegalxeqdare phreqc pooreucugiiseu baqgaalxi areebikeu rasxyaneu hiqduustaani iqglisxeu mattu myaaqdxarineu sil  ==  [1498 frames] -68.3691 [Ac=-102416.9 LM=0.0] (Act=106.7)
+Aligning File: data/train/2503/kan2503F0030.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil biireubaleu ninna samaya spuureutige abhinaqdanegalxu sil  ==  [438 frames] -69.7040 [Ac=-30530.3 LM=0.0] (Act=41.6)
+Aligning File: data/train/2503/kan2503F0018.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil baqgaarada naanxyagalxa muutxeyannuu horisi kalxuhisidaru sil  ==  [418 frames] -67.0657 [Ac=-28033.5 LM=0.0] (Act=44.6)
+Aligning File: data/train/2503/kan2503F0004.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil priitiya kodxugege pratiphala swiikarisuwudu ucitawalla sil  ==  [408 frames] -68.5073 [Ac=-27951.0 LM=0.0] (Act=46.3)
+Aligning File: data/train/2503/kan2503F0015.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu sil  ==  [528 frames] -65.5173 [Ac=-34593.1 LM=0.0] (Act=52.0)
+Aligning File: data/train/2503/kan2503F0006.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil idu yoogyaraadawara balxige seerabeeku sil  ==  [348 frames] -63.6001 [Ac=-22132.8 LM=0.0] (Act=33.7)
+Aligning File: data/train/2503/kan2503F0022.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa sil  ==  [638 frames] -70.2374 [Ac=-44811.5 LM=0.0] (Act=57.4)
+Aligning File: data/train/2503/kan2503F0008.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil shriimaqta raita manassinallee saqtoosxapatxtxa sil  ==  [308 frames] -68.4131 [Ac=-21071.2 LM=0.0] (Act=35.0)
+Aligning File: data/train/2503/kan2503F0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idu bahu wisheesxawaagide sil  ==  [268 frames] -67.7571 [Ac=-18158.9 LM=0.0] (Act=24.0)
+Aligning File: data/train/2503/kan2503F0025.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil awadhiyalle alloqdu gaalpheu klabeu allittu sil  ==  [378 frames] -67.7760 [Ac=-25619.3 LM=0.0] (Act=33.5)
+Aligning File: data/train/2503/kan2503F0029.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil tuqbaa suprasiddharuu aada swaami wiwekaanaqdara puureuwanaama nareeqdranaatheu eqbudaagittu sil  ==  [778 frames] -67.7218 [Ac=-52687.6 LM=0.0] (Act=69.5)
+Aligning File: data/train/2503/kan2503F0017.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil raita maneya daari hidxida sil  ==  [288 frames] -62.5250 [Ac=-18007.2 LM=0.0] (Act=25.8)
+Aligning File: data/train/2503/kan2503F0003.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe sil  ==  [458 frames] -66.5449 [Ac=-30477.6 LM=0.0] (Act=40.9)
+Aligning File: data/train/2503/kan2503F0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sil oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi aaloocane maadxidaru sil  ==  [728 frames] -66.0708 [Ac=-48099.5 LM=0.0] (Act=61.2)
+Aligning File: data/train/2503/kan2503F0027.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+sil idannu tegedukoqdxu hoogu sil  ==  [248 frames] -64.3069 [Ac=-15948.1 LM=0.0] (Act=24.4)
+Aligning File: data/train/2503/kan2503F0009.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla sil  ==  [448 frames] -69.0650 [Ac=-30941.1 LM=0.0] (Act=52.4)
+Aligning File: data/train/2503/kan2503F0021.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil idu nanage tuqbaa priitiya hanxnxu sil  ==  [328 frames] -66.3888 [Ac=-21775.5 LM=0.0] (Act=30.8)
+Aligning File: data/train/2503/kan2503F0019.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil oqdu hanxnxige oqdu kudure siguwudu sil  ==  [378 frames] -66.0062 [Ac=-24950.4 LM=0.0] (Act=33.6)
+Aligning File: data/train/2503/kan2503F0016.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil awanige sawaarige yoogyawaada olxlxeya kudure kodxabeku sil  ==  [498 frames] -68.1937 [Ac=-33960.5 LM=0.0] (Act=46.7)
+Aligning File: data/train/2503/kan2503F0001.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sil raitanobbana tootxadallidda seebu maradalli oqdee oqdu hanxnxu belxeyitu sil  ==  [458 frames] -67.5095 [Ac=-30919.3 LM=0.0] (Act=53.5)
+Aligning File: data/train/2503/kan2503F0024.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kappu banxnxada batxtxegalxannu totxtxaru sil  ==  [358 frames] -63.3303 [Ac=-22672.2 LM=0.0] (Act=31.0)
+Aligning File: data/train/2503/kan2503F0007.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sil naanu idannu taqdiddu pratiphalada bayakeyiqda allawee alla sil  ==  [388 frames] -69.7251 [Ac=-27053.3 LM=0.0] (Act=47.4)
+Aligning File: data/train/2503/kan2503F0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene sil  ==  [498 frames] -67.1668 [Ac=-33449.1 LM=0.0] (Act=48.2)
+Aligning File: data/train/2503/kan2503F0005.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sil kasxtxapatxtxu nadxedu illige baqdiddaane sil  ==  [308 frames] -69.9471 [Ac=-21543.7 LM=0.0] (Act=32.4)
+Aligning File: data/train/2503/kan2503F0028.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sil hakki haarutide noodxidiraa oqdu kannadxa padya sil  ==  [478 frames] -68.5142 [Ac=-32749.8 LM=0.0] (Act=40.7)
+Aligning File: data/train/2503/kan2503F0010.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sil aadare mugdha raitana priitiyannu shaqkisabaaradu sil  ==  [428 frames] -65.2986 [Ac=-27947.8 LM=0.0] (Act=41.5)
+------------------------- End of hviteAlign.sh ------------------------

@@ -1,0 +1,69 @@
+HVite -i log/recout_mono.mlf -p 0.0 -s 5.0 -w lm/wordent_bigram -l * -A -H hmm/hmm9/hmmdefs -H hmm/hmm9/macros -S htk_files/test_script.txt -T 1 lm/sorted.lexicon.txt lm/monophones1 
+Read 52 physical / 52 logical HMMs
+Read lattice with 154 nodes / 498 arcs
+Created network with 1300 nodes / 1644 links
+File: data/test/2505/kan2505F0020.mfc_D_A
+SENT_BEGIN arasaru priitiyiqda enu kotxtxaruu adannu tagedukolxlxutteene SENT_END  ==  [488 frames] -67.2980 [Ac=-32824.1 LM=-17.3] (Act=1262.2)
+File: data/test/2505/kan2505F0022.mfc_D_A
+SENT_BEGIN awanige raajanu udyaanawanadalli ellaa wasatigalxannuu eereupadxisi kotxtxa SENT_END  ==  [578 frames] -69.4324 [Ac=-40111.5 LM=-20.4] (Act=1267.9)
+File: data/test/2505/kan2505F0021.mfc_D_A
+SENT_BEGIN idu nanage tuqbaa priitiya maadxidaru SENT_END  ==  [348 frames] -66.1466 [Ac=-22943.0 LM=-76.1] (Act=1247.3)
+File: data/test/2505/kan2505F0019.mfc_D_A
+SENT_BEGIN oqdaagi yoogiyu oqdu kudure siguwudu SENT_END  ==  [348 frames] -67.4961 [Ac=-23333.4 LM=-155.2] (Act=1247.3)
+File: data/test/2501/kan2501F0003.mfc_D_A
+SENT_BEGIN nijawaagiyuu atyamuulya kodxugeyannee taqdiruwe SENT_END  ==  [476 frames] -55.4048 [Ac=-26355.5 LM=-17.2] (Act=1261.2)
+File: data/test/2501/kan2501F0002.mfc_D_A
+SENT_BEGIN idu bahu wisheesxawaagide SENT_END  ==  [323 frames] -54.9639 [Ac=-17736.2 LM=-17.1] (Act=1243.3)
+File: data/test/2501/kan2501F0005.mfc_D_A
+SENT_BEGIN kasxtxapatxtxu nadxedu illige baqdiddaane SENT_END  ==  [510 frames] -48.9825 [Ac=-24963.9 LM=-17.2] (Act=1263.7)
+File: data/test/2501/kan2501F0001.mfc_D_A
+SENT_BEGIN raitanobbana tootxadallidda seebu nanage oqdaanoqdu SENT_END  ==  [668 frames] -53.3462 [Ac=-35484.4 LM=-150.9] (Act=1272.1)
+File: data/test/2507/kan2507M0030.mfc_D_A
+SENT_BEGIN kappu idannu ninna samaya spuureutige kappu abhinaqdanegalxu kappu SENT_END  ==  [560 frames] -57.9034 [Ac=-32128.4 LM=-297.5] (Act=1266.9)
+File: data/test/2507/kan2507M0028.mfc_D_A
+SENT_BEGIN kappu phreqc haarutide noodxidiraa kappu oqdu kannadxa padya kappu SENT_END  ==  [596 frames] -57.7977 [Ac=-34146.5 LM=-300.9] (Act=1268.8)
+File: data/test/2507/kan2507M0027.mfc_D_A
+SENT_BEGIN idannu tegedukoqdxu hoogu SENT_END  ==  [342 frames] -52.1046 [Ac=-17799.2 LM=-20.6] (Act=1246.4)
+File: data/test/2507/kan2507M0029.mfc_D_A
+SENT_BEGIN idu bahu suprasiddharuu tuqbaa aada swaami wiwekaanaqdara kappu oqdee oqdu kappu maneya daari hidxida allittu SENT_END  ==  [941 frames] -59.4576 [Ac=-55533.9 LM=-415.7] (Act=1279.9)
+File: data/test/2504/kan2504F0016.mfc_D_A
+SENT_BEGIN awanige iqglisxeu sawaarige yoogyawaada olxlxeya kudure kodxabeku SENT_END  ==  [708 frames] -68.6619 [Ac=-48495.0 LM=-117.7] (Act=1273.6)
+File: data/test/2504/kan2504F0015.mfc_D_A
+SENT_BEGIN dusxtxabuddhiya yoogiyu raajana praareuthaneyannu aqgiikarisikoqdxanu SENT_END  ==  [838 frames] -65.8503 [Ac=-55165.3 LM=-17.2] (Act=1277.5)
+File: data/test/2504/kan2504F0018.mfc_D_A
+SENT_BEGIN baqgaarada naanxyagalxa muutxeyannuu horisi aqgiikarisikoqdxanu SENT_END  ==  [578 frames] -70.3124 [Ac=-40573.1 LM=-67.4] (Act=1267.9)
+File: data/test/2502/kan2502M0009.mfc_D_A
+SENT_BEGIN prajegalxiqda naanu yaawa wastuwannuu ucitawaagi swiikarisuwudilla SENT_END  ==  [608 frames] -65.6660 [Ac=-39904.2 LM=-20.7] (Act=1269.4)
+File: data/test/2502/kan2502M0006.mfc_D_A
+SENT_BEGIN idu yoogyaraadawara balxige seerabeeku SENT_END  ==  [398 frames] -63.6100 [Ac=-25299.6 LM=-17.1] (Act=1253.8)
+File: data/test/2502/kan2502M0008.mfc_D_A
+SENT_BEGIN shriimaqta raita daari manassinallee saqtoosxapatxtxa SENT_END  ==  [428 frames] -65.2174 [Ac=-27791.3 LM=-121.8] (Act=1257.0)
+File: data/test/2502/kan2502M0007.mfc_D_A
+SENT_BEGIN naanu idannu padya idu pratiphalada bayakeyiqda allawee alla SENT_END  ==  [598 frames] -63.6911 [Ac=-37922.0 LM=-165.3] (Act=1268.9)
+File: data/test/2502/kan2502M0010.mfc_D_A
+SENT_BEGIN aadare mugdha raitana priitiyannu shaqkisabaaradu SENT_END  ==  [518 frames] -61.6209 [Ac=-31902.4 LM=-17.2] (Act=1264.3)
+File: data/test/2506/kan2506M0023.mfc_D_A
+SENT_BEGIN oqdu saari eelxu maqdi saamaqta raajaru oqdaagi kuudxi ellaa aaloocane maadxidaru SENT_END  ==  [816 frames] -56.1717 [Ac=-45713.6 LM=-122.5] (Act=1277.0)
+File: data/test/2506/kan2506M0025.mfc_D_A
+SENT_BEGIN awadhiyalle alloqdu tuqbaa idu bahu allittu SENT_END  ==  [591 frames] -53.6456 [Ac=-31540.2 LM=-164.4] (Act=1268.6)
+File: data/test/2506/kan2506M0026.mfc_D_A
+SENT_BEGIN prapaqcadalli maatanaadxuwa idannu taqdiruwe adannu obba alla nidde hakki hiqduustaani hoogu mattu myaaqdxarineu SENT_END  ==  [1347 frames] -54.3404 [Ac=-72685.8 LM=-510.6] (Act=1285.7)
+File: data/test/2506/kan2506M0024.mfc_D_A
+SENT_BEGIN kappu banxnxada batxtxegalxannu totxtxaru SENT_END  ==  [506 frames] -50.6277 [Ac=-25600.4 LM=-17.2] (Act=1263.5)
+File: data/test/2503/kan2503F0014.mfc_D_A
+SENT_BEGIN aatana maneya pakkadalli obba shriimaqta raitanidda SENT_END  ==  [378 frames] -69.0523 [Ac=-26074.5 LM=-27.3] (Act=1251.4)
+File: data/test/2503/kan2503F0013.mfc_D_A
+SENT_BEGIN raatriyellaa kaawalu kaayuttidda awaru priitiya jaawadalli maimaretu nidde maadxuttiddaru SENT_END  ==  [598 frames] -69.4140 [Ac=-41391.8 LM=-117.8] (Act=1268.9)
+File: data/test/2503/kan2503F0012.mfc_D_A
+SENT_BEGIN oqdaanoqdu kaaladalli coolxaraajyawannu dhareumaatmanaada obba raajanu paalisuttiddanu SENT_END  ==  [538 frames] -68.8223 [Ac=-37001.7 LM=-24.6] (Act=1265.6)
+File: data/test/2503/kan2503F0011.mfc_D_A
+SENT_BEGIN priitiya kodxugege pratiphala swiikarisuwudu ucitawalla SENT_END  ==  [358 frames] -73.2762 [Ac=-26216.7 LM=-16.2] (Act=1248.8)
+====================== HTK Results Analysis =======================
+  Date: Mon Jun 22 16:16:51 2020
+  Ref : lm/kannada_word_recoWord.mlf
+  Rec : log/recout_mono.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=50.00 [H=14, S=14, N=28]
+WORD: %Corr=83.64, Acc=72.73 [H=138, D=3, S=24, I=18, N=165]
+===================================================================
+----------------- End of hvite.csh -----------------

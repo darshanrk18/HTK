@@ -1,0 +1,16 @@
+Monday 22 June 2020 04:16:01 PM IST
+ HCompV computes global mean and covariance of a set of training data.
+ It is used to initialise parameters of HMM such that all component
+ means and covariances are set equal to the global data mean and covariance.\n
+Calculating Fixed Variance
+  HMM Prototype: htk_files/proto
+  Segment Label: None
+  Num Streams  : 1
+  UpdatingMeans: Yes
+  Target Direct: hmm/hmm0
+101429 speech frames accumulated
+Updating HMM Means and Covariances
+Output written to directory hmm/hmm0
+Var floor macros output to file hmm/hmm0/vFloors
+------------------------- End of hcompv.sh --------------------------
+Monday 22 June 2020 04:16:01 PM IST
